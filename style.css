@@ -1,0 +1,82 @@
+/**
+ * Easy Homework
+ **/
+
+ body {
+     text-align: center;
+     background: rgb(146, 144, 144);
+     margin-left: 4cm;
+     margin-right: 4cm;
+ }
+  
+  #Header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: 	#808080;
+    background:	#F5F5F5;
+  }
+  
+  #Nav {
+    padding: 20px;
+    margin-bottom: 20px;
+    background:	#F5F5F5;
+    color: 	#808080;
+  }
+  
+  #Section {
+    float: left;
+    height: 220px;
+    width: 600px;
+    padding: 20px;
+    color: #808080;
+    background: #F5F5F5;
+    position: relative;
+}
+  
+  #Article {
+    color: #eee;
+    background: #808080;
+    position: relative;
+    height: 140px;
+    width: 559px;
+    padding: 20px;
+    margin-top: 20px;
+}
+  
+#H1 {
+  color: #808080;
+  background: #F5F5F5;
+  position: relative;
+  height: 9px;
+  width: 518px;
+  padding: 20px;
+  margin-top: 15px;
+}
+  
+#P {
+  color: #808080;
+  background: #F5F5F5;
+  position: relative;
+  height: 9px;
+  width: 518px;
+  padding: 20px;
+  margin-top: 15px;
+}
+
+  #Aside {
+    float: right;
+    height: 220px;
+    padding: 20px;
+    width: 440px;
+    margin-left: 15px;
+    background: #F5F5F5;
+    color: #808080;
+}
+
+  #Footer {
+    float: initial;
+    padding: 20px;
+    background: #F5F5F5;
+    color: #808080;
+    margin-top: 295px;
+}
